@@ -1,0 +1,30 @@
+# one-pi-one-price
+
+> One currency. One price. A clear explanation of why a single, freely tradable asset cannot have two different prices.
+
+## Summary
+This repository explains the simple principle: "A currency cannot have two prices."
+It focuses on the Pi Network discussion about mined vs bought Pi, showing the difference between fairness and market mechanics, and how arbitrage enforces price unity.
+
+## Core Thesis
+- One currency = One asset = One price in an open market
+- Mined Pi and bought Pi are the same asset
+- Effort differs, but the unit is identical
+- Arbitrage naturally converges prices across linked markets
+- "What is fair" is different from "what the market does"
+
+## Key Files
+- README.md: Overview and TL;DR
+- docs/ONE-CURRENCY-ONE-PRICE.md: Core principle with real examples
+- docs/MINED-VS-BOUGHT.md: Effort vs capital
+- docs/ECOSYSTEM-VS-OPEN-MARKET.md: Internal vs open market
+- docs/OUSD-AND-SETTLEMENT.md: Settlement vs direct cash-out
+- docs/ARBITRAGE-ENFORCES-ONE-PRICE.md: How one price is enforced
+- docs/FAIRNESS-VS-MARKET.md: Fairness vs market reality
+- docs/FAQ.md: Direct answers
+
+## Quote
+"مافي عملة لها قيمتين.. هل الدولار وهو العملة العالمية الأولى له قيمتين؟؟؟" — Fadel
+
+## License
+MIT

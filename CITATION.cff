@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "One Pi, One Price | عملة واحدة، سعر واحد"
+type: software
+authors:
+  - family-names: "aybvip"
+    given-names: ""
+repository-code: "https://github.com/aybvip/one-pi-one-price"
+url: "https://github.com/aybvip/one-pi-one-price"
+license: MIT
+keywords:
+  - pi-network
+  - pi-coin
+  - one-price
+  - arbitrage
+  - fungibility
+  - economics
+  - mined-vs-bought
+abstract: "A clear explanation of the principle: one currency cannot have two prices. Focuses on Pi Network with the argument of arbitrage unifying value across markets."
