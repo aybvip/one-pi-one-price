@@ -1,27 +1,35 @@
 # one-pi-one-price
 
-> One currency. One price. A clear explanation of why a single, freely tradable asset cannot have two different prices.
+> One currency. One price. The Law of One Price explains why identical, freely tradable assets converge to a single market price.
 
-## Summary
-This repository explains the simple principle: "A currency cannot have two prices."
-It focuses on the Pi Network discussion about mined vs bought Pi, showing the difference between fairness and market mechanics, and how arbitrage enforces price unity.
+## Core Principle
+"A currency cannot have two prices."  
+Same asset + free movement + comparability => price convergence via arbitrage.
 
-## Core Thesis
-- One currency = One asset = One price in an open market
-- Mined Pi and bought Pi are the same asset
-- Effort differs, but the unit is identical
-- Arbitrage naturally converges prices across linked markets
-- "What is fair" is different from "what the market does"
+## Key Arguments
+- Law of One Price (LoOP)
+- Arbitrage enforces equilibrium
+- Fungibility requires price unity
+- Effort vs market pricing (fairness vs mechanics)
+- Native asset vs IOU distinction
+- Real examples: Kimchi Premium, Gold, Cross-listed stocks
 
-## Key Files
-- README.md: Overview and TL;DR
-- docs/ONE-CURRENCY-ONE-PRICE.md: Core principle with real examples
-- docs/MINED-VS-BOUGHT.md: Effort vs capital
-- docs/ECOSYSTEM-VS-OPEN-MARKET.md: Internal vs open market
-- docs/OUSD-AND-SETTLEMENT.md: Settlement vs direct cash-out
-- docs/ARBITRAGE-ENFORCES-ONE-PRICE.md: How one price is enforced
-- docs/FAIRNESS-VS-MARKET.md: Fairness vs market reality
-- docs/FAQ.md: Direct answers
+## Focus
+Explains the mined-vs-bought Pi debate through economics, not blockchain tracing.
+
+## Files
+- README.md
+- docs/LAW-OF-ONE-PRICE.md
+- docs/ONE-CURRENCY-ONE-PRICE.md
+- docs/MINED-VS-BOUGHT.md
+- docs/NATIVE-VS-IOU.md
+- docs/ECOSYSTEM-VS-OPEN-MARKET.md
+- docs/OUSD-AND-SETTLEMENT.md
+- docs/ARBITRAGE-ENFORCES-ONE-PRICE.md
+- docs/REAL-WORLD-EXAMPLES.md
+- docs/FAIRNESS-VS-MARKET.md
+- docs/FAQ.md
+- docs/INDEX.md
 
 ## Quote
 "مافي عملة لها قيمتين.. هل الدولار وهو العملة العالمية الأولى له قيمتين؟؟؟" — Fadel
