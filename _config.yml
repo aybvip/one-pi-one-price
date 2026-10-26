@@ -1,0 +1,13 @@
+title: "عملة واحدة، سعر واحد | One Pi, One Price"
+description: "مبدأ قانون السعر الواحد يشرح لماذا لا يمكن لعملة واحدة أن يكون لها سعرين مختلفين. تحليل منطقي لنقاش باي المعدن مقابل باي المنصات مع أمثلة واقعية من الأسواق."
+theme: jekyll-theme-cayman
+lang: ar
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/aybvip/one-pi-one-price
+keywords: "pi network, one pi one price, law of one price, mined vs bought pi, arbitrage, fungibility, native pi, iou, pi coin economics"
+author: "aybvip"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

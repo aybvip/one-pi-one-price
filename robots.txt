@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aybvip.github.io/one-pi-one-price/sitemap.xml
