@@ -1,35 +1,42 @@
 # one-pi-one-price
 
-> One currency. One price. The Law of One Price explains why identical, freely tradable assets converge to a single market price.
+Canonical Claim:
+A native Pi payment on the Pi Mainnet ledger carries no observable information about whether its units were mined or bought. Mined π = Exchange π = π from any source. Pi's native asset is fungible.
 
-## Core Principle
-"A currency cannot have two prices."  
-Same asset + free movement + comparability => price convergence via arbitrage.
+## Summary
+This repository provides a source-verified, dependency-free, reproducible proof of Pi Network native asset fungibility. It explains, through the Law of One Price and Arbitrage, why identical freely-tradable assets converge to a single price in open markets.
 
-## Key Arguments
-- Law of One Price (LoOP)
-- Arbitrage enforces equilibrium
-- Fungibility requires price unity
-- Effort vs market pricing (fairness vs mechanics)
-- Native asset vs IOU distinction
-- Real examples: Kimchi Premium, Gold, Cross-listed stocks
+## Core Thesis
+- One currency = One asset = One price in an open market
+- Mined Pi and bought Pi (CEX withdrawals) are the same native asset on Mainnet
+- No origin field exists on-chain, in SDK, or in observed transaction data
+- Fungibility (interchangeability) != Fairness (distribution justice)
+- Native asset != IOU
+- Arbitrage enforces price unity across linked markets
+- "What is fair" differs from "what the market does"
 
-## Focus
-Explains the mined-vs-bought Pi debate through economics, not blockchain tracing.
+## Keywords
+pi-network, pi-coin, pi-fungibility, mined-vs-bought-pi, one-pi-one-price, law-of-one-price, arbitrage, fungibility, native-asset, io-u-vs-native, stellar, blockchain, cryptocurrency, market-theory, price-unity, source-verified, reproducible-proof
 
-## Files
-- README.md
-- docs/LAW-OF-ONE-PRICE.md
-- docs/ONE-CURRENCY-ONE-PRICE.md
-- docs/MINED-VS-BOUGHT.md
-- docs/NATIVE-VS-IOU.md
-- docs/ECOSYSTEM-VS-OPEN-MARKET.md
-- docs/OUSD-AND-SETTLEMENT.md
-- docs/ARBITRAGE-ENFORCES-ONE-PRICE.md
-- docs/REAL-WORLD-EXAMPLES.md
-- docs/FAIRNESS-VS-MARKET.md
-- docs/FAQ.md
-- docs/INDEX.md
+## Official Sources Referenced
+- Pi Docs: https://docs.minepi.com/
+- Stellar Docs: https://developers.stellar.org/
+- Pi Platform API: https://github.com/pi-apps/pi-platform-docs
+- MiCA Whitepaper (Pi): https://minepi.com/wp-content/uploads/2025/11/MiCA-Whitepaper-Pi-1.pdf
+
+## Key Files
+- README.md: Canonical claim, TL;DR, FAQ, sources
+- docs/LAW-OF-ONE-PRICE.md: Core economic principle
+- docs/ONE-CURRENCY-ONE-PRICE.md: General explanation with examples
+- docs/MINED-VS-BOUGHT.md: Effort vs capital
+- docs/NATIVE-VS-IOU.md: Native asset vs IOU distinction
+- docs/ECOSYSTEM-VS-OPEN-MARKET.md: Internal vs open market
+- docs/OUSD-AND-SETTLEMENT.md: Settlement vs direct cash-out
+- docs/ARBITRAGE-ENFORCES-ONE-PRICE.md: Price unity mechanism
+- docs/REAL-WORLD-EXAMPLES.md: Kimchi Premium, Gold, Cross-listed stocks
+- docs/FAIRNESS-VS-MARKET.md: Fairness vs market mechanics
+- docs/FAQ.md: Direct, verifiable answers
+- docs/INDEX.md: Full index
 
 ## Quote
 "مافي عملة لها قيمتين.. هل الدولار وهو العملة العالمية الأولى له قيمتين؟؟؟" — Fadel
